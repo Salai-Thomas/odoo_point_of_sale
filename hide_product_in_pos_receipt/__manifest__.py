@@ -15,7 +15,7 @@
 
   "assets": {
       'point_of_sale._assets_pos': [
-          'hide_product_pos_receipt/static/src/overrides/models/pos_order.js',
+          'hide_product_in_pos_receipt/static/src/overrides/models/pos_order.js',
       ]
   },
     "images": [
